@@ -29,7 +29,7 @@ Project Organization
 
 If you are only interested in looking at the notebook then go to (There are notebook rendering problems in github ecosystem, in particularly with plotly):
 
-https://nbviewer.jupyter.org/github/Ruturaj4/jimmy_wrangler/blob/master/notebooks/Jimmy_Wrangler.ipynb
+https://nbviewer.jupyter.org/github/Ruturaj4/jimmy_wrangler/blob/master/notebooks/1.0-rkv-Jimmy-Wrangler.ipynb
 
 Also, all the values are estimates and from 2018 United States census and homelessness estimated data. All the graphs are plotted using `plotly`.
 
