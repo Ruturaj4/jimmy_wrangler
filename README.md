@@ -3,6 +3,8 @@ Jimmy Wrangler
 
 Data Explorer : Traveling the world on a mission to discover new data
 
+Author: Ruturaj Kiran Vaidya
+
 Project Organization
 ------------
 
