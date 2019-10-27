@@ -90,6 +90,3 @@ target/
 
 # json files
 *.json
-
-# ignore .gitkeep files
-*.gitkeep
